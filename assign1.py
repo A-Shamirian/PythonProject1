@@ -1,4 +1,4 @@
-# Annie Shamirian
+# Annie Shamirian: 251103387
 # 1026A: Assignment 1
 
 # Prompt user to enter first and last name. Print their full name back to them capitalized.
